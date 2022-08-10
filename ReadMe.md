@@ -1,0 +1,5 @@
+- O que foi incluído nas versões do Java desde a versão 9 até a versão 14
+- O Factory Method of(..) para coleções
+- Como substituir os tipos de variáveis pela palavra var
+- A criar strings multilinhas sem burocracia com text blocks
+- Como melhorar a escrita do switch expression

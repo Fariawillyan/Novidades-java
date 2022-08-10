@@ -1,4 +1,4 @@
-#Factory - inferencia - textblocks - switch
+# Factory - inferencia - textblocks - switch
 
 - O que foi incluído nas versões do Java desde a versão 9 até a versão 14
 - O Factory Method of(..) para coleções
@@ -6,19 +6,19 @@
 - A criar strings multilinhas sem burocracia com text blocks
 - Como melhorar a escrita do switch expression
 
-#Jshell
+# Jshell
 
 - Para realizar testes de algum recurso da linguagem, era necessário criar uma classe, um método main, escrever o recurso a ser testado, compilar e executar o programa
 - Para facilitar a vida do desenvolvedor, criou-se uma plataforma interativa, onde o usuário, em um terminal, pode executar o código e receber respostas na mesma hora
 - O terminal interativo é conhecido como REPL e já era comum em outras linguagens de programação
 
-#Http_2
+# Http_2
 
 - A API HttpUrlConnection, que estava na plataforma desde o Java 1.1, possui alguns problemas como design e falta de documentação
 - Criou-se, no Java 11, uma nova api, HTTP/2 Client, que ataca esses problemas com um conjunto de três classes: HttpClient, HttpRequest e HttpResponse
 - Com pequenas alterações no código, é possível realizar requisições assíncronas, recurso que não era possível antes da nova API
 
-#Reative Stream
+# Reative Stream
 
 - Trabalhar com fluxo padrão nem sempre é uma boa estratégia, pois dependendo do cenário, você terá problema de performance na sua aplicação
 - Não devemos simplesmente criar uma nova thread a cada requisição, pois isso pode criar gargalos na aplicação de destino
